@@ -1,5 +1,5 @@
 Data Engineering Journey
-            Documenting my journey from beginner to Data Engineer through daily learning and hands-on practice.
+Documenting my journey from beginner to Data Engineer through daily learning and hands-on practice.
 
 Day 1 - Python Fundamentals
 
