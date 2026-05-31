@@ -14,7 +14,7 @@ Learned:
 * Creating New Lists
 
 Files:
-* day1_python_practice.ipynb
+* Day_1.ipynb
 
 Day 2 - Strings and File Handling
 
@@ -36,9 +36,25 @@ Mini Projects:
 * Create passed_students.txt from students.txt
 
 Files:
-* day2_python_practice.ipynb
+* Day_2.ipynb
 * names.txt
+* output.txt
 * marks.txt
 * students.txt
 * results.txt
 * passed_students.txt
+
+Day 3 - Functions
+
+Learned:
+* def
+* parameters
+* return
+* functions with loops
+* functions with conditions
+* total_marks()
+* average_marks()
+* highest_marks()
+
+Files:
+*Day_3.ipynb
