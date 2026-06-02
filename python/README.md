@@ -58,3 +58,40 @@ Learned:
 
 Files:
 *Day_3.ipynb
+
+Day 4 - Recovery / No Study Session
+
+Learned:
+* Recovery day
+* Home setup completed
+
+Day 5 - Functions, List Processing, Dictionaries Introduction
+
+Learned:
+* List filtering
+* Counting and summing
+* Tuples
+* Dictionary basics
+* Accessing dictionary values
+* Updating and adding dictionary values
+
+Files:
+* Day_5.ipynb
+
+Day 6 - Dictionary Processing, Grouping and Nested Dictionaries
+
+Learned:
+* Dictionary processing
+* List of dictionaries
+* Group by count
+* Group by sum
+* Group by average
+* Group by list
+* Nested dictionaries
+* Department reports
+* Highest salary employee by department
+* Company report generation
+* Dictionary optimization and debugging
+
+Files:
+* Day_6.ipynb
