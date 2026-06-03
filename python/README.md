@@ -1,10 +1,13 @@
-Data Engineering Journey
+# Data Engineering Journey
+
 Documenting my journey from beginner to Data Engineer through daily learning and hands-on practice.
 
-Day 1 - Python Fundamentals
+## Day 1 - Python Fundamentals
 
-Learned:
+### Learned:
+
 * Variables
+* Data Types
 * Lists
 * Loops
 * If Conditions
@@ -13,29 +16,27 @@ Learned:
 * Filtering Data
 * Creating New Lists
 
-Files:
+### Files:
+
 * Day_1.ipynb
 
-Day 2 - Strings and File Handling
+---
 
-Learned:
-* upper()
-* title()
-* capitalize()
-* len()
-* open()
-* read()
-* strip()
-* split()
-* File Modes (r, w, a)
+## Day 2 - Strings and File Handling
 
-Mini Projects:
-* Calculate total marks from file
-* Find highest mark
-* Calculate average mark
-* Create passed_students.txt from students.txt
+### Learned:
 
-Files:
+* String Methods
+* String Manipulation
+* File Handling
+* Reading Files
+* Writing Files
+* Appending Files
+* Splitting Text Data
+* Data Cleaning using Strings
+
+### Files:
+
 * Day_2.ipynb
 * names.txt
 * output.txt
@@ -44,54 +45,103 @@ Files:
 * results.txt
 * passed_students.txt
 
-Day 3 - Functions
+### Mini Projects:
 
-Learned:
-* def
-* parameters
-* return
-* functions with loops
-* functions with conditions
-* total_marks()
-* average_marks()
-* highest_marks()
+* Student Result File Processor
 
-Files:
-*Day_3.ipynb
+---
 
-Day 4 - Recovery / No Study Session
+## Day 3 - Functions
 
-Learned:
-* Recovery day
-* Home setup completed
+### Learned:
 
-Day 5 - Functions, List Processing, Dictionaries Introduction
+* Function Definition
+* Parameters
+* Return Values
+* Reusable Code
+* Functions with Loops
+* Functions with Conditions
+* Data Processing using Functions
 
-Learned:
-* List filtering
-* Counting and summing
+### Files:
+
+* Day_3.ipynb
+
+---
+
+## Day 4 - Recovery / No Study Session
+
+### Learned:
+
+* Recovery Day
+* Study Environment Setup
+* Learning Plan Review
+
+---
+
+## Day 5 - Functions, List Processing and Dictionaries
+
+### Learned:
+
+* List Processing
+* List Filtering
+* Counting and Aggregation
 * Tuples
-* Dictionary basics
-* Accessing dictionary values
-* Updating and adding dictionary values
+* Dictionary Basics
+* Accessing Dictionary Values
+* Updating Dictionary Values
+* Adding Dictionary Fields
+* List of Tuples Processing
 
-Files:
+### Files:
+
 * Day_5.ipynb
 
-Day 6 - Dictionary Processing, Grouping and Nested Dictionaries
+---
 
-Learned:
-* Dictionary processing
-* List of dictionaries
-* Group by count
-* Group by sum
-* Group by average
-* Group by list
-* Nested dictionaries
-* Department reports
-* Highest salary employee by department
-* Company report generation
-* Dictionary optimization and debugging
+## Day 6 - Dictionary Processing, Grouping and Nested Dictionaries
 
-Files:
+### Learned:
+
+* List of Dictionaries
+* Dictionary Processing
+* Group By Count
+* Group By Sum
+* Group By Average
+* Group By List
+* Nested Dictionaries
+* Dictionary Aggregation
+* Report Generation using Dictionaries
+* Dictionary Optimization
+* Debugging Techniques
+
+### Files:
+
 * Day_6.ipynb
+
+### Mini Projects:
+
+* Employee Department Reporting System
+
+---
+
+## Day 7 - While Loops and Number Processing
+
+### Learned:
+
+* While Loops
+* Loop Counters
+* Increment and Decrement Operations
+* Infinite Loop Concept
+* Break Statement
+* Number Processing using While Loops
+* Digit Extraction using % and //
+* Counting Patterns
+* Sum and Product Patterns
+* Maximum and Minimum Value Tracking
+* Prime Number Logic
+* Fibonacci Series Basics
+
+### Files:
+
+* Day_7.ipynb
