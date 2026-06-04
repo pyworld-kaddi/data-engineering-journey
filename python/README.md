@@ -128,12 +128,13 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 ## Day 7 - While Loops and Number Processing
 
 ### Learned:
-
 * While Loops
 * Loop Counters
 * Increment and Decrement Operations
 * Infinite Loop Concept
-* Break Statement
+* break Statement
+* continue Statement
+* pass Statement
 * Number Processing using While Loops
 * Digit Extraction using % and //
 * Counting Patterns
@@ -141,7 +142,14 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Maximum and Minimum Value Tracking
 * Prime Number Logic
 * Fibonacci Series Basics
+* Function-Based Report Generation
+* Student Data Processing
+* Nested Data Handling (List of Dictionaries)
 
 ### Files:
-
 * Day_7.ipynb
+
+### Mini Projects:
+* Student Report System
+
+---
