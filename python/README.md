@@ -153,3 +153,64 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Student Report System
 
 ---
+
+## Day 8 - Strings and Text Processing
+
+### Learned:
+* String Indexing
+* Positive Indexing
+* Negative Indexing
+* String Slicing
+* Step Slicing
+* Reverse Slicing
+* String Traversal
+* Character Counting
+* Character Searching
+* String Building
+* String Reversal using Loops
+* Vowel Counting
+* Consonant Counting
+* Character Mapping
+* ASCII Concepts
+* ord()
+* chr()
+* String Searching using in
+* find()
+* startswith()
+* endswith()
+* String Replacement
+* Manual Character Replacement
+* String Validation
+* isalpha()
+* isdigit()
+* islower()
+* isupper()
+* isspace()
+* isalnum()
+* strip()
+* lstrip()
+* rstrip()
+* lower()
+* upper()
+* title()
+* capitalize()
+* Manual Split Logic
+* Manual Join Logic
+* split()
+* join()
+* Word Processing
+* Longest Word Identification
+* Shortest Word Identification
+* Text Analysis
+* Text Cleaning
+* Text Formatting
+
+### Files:
+* Day_8.ipynb
+
+### Mini Projects:
+* Text Analysis Report
+* Word Analysis Report
+* Text Cleaning and Formatting Report
+
+---
