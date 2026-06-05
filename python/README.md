@@ -214,3 +214,61 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Text Cleaning and Formatting Report
 
 ---
+
+## Day 9 - Tuples, Sets, Exception Handling and Modules
+
+### Learned:
+* Tuple Basics
+* Tuple Indexing
+* Tuple Slicing
+* Tuple Traversal
+* Tuple Immutability
+* Tuple Packing
+* Tuple Unpacking
+* Tuple Unpacking Errors
+* Variable Swapping using Tuples
+
+* Set Basics
+* Unique Values
+* set()
+* add()
+* remove()
+* discard()
+* Union (|)
+* Intersection (&)
+* Difference (-)
+* Duplicate Removal
+* Set-Based Data Comparison
+
+* Exception Handling Basics
+* try
+* except
+* else
+* finally
+
+* ValueError
+* TypeError
+* KeyError
+* IndexError
+* ZeroDivisionError
+
+* Modules
+* import
+* math Module
+* sqrt()
+* ceil()
+* floor()
+
+* random Module
+* randint()
+* choice()
+
+### Files:
+* Day_9.ipynb
+
+### Mini Projects:
+* Employee Duplicate Removal Report
+* Department Comparison Report
+* Safe Calculator
+
+---
