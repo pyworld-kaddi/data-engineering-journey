@@ -81,6 +81,12 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ## Day 5 - Functions, List Processing and Dictionaries
 
+
+### Status:
+
+* Resumed learning after a break.
+* Ready to start Day 4 as Day 5 topics.
+
 ### Learned:
 
 * List Processing
@@ -272,3 +278,90 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Safe Calculator
 
 ---
+
+## Day 10 - File Handling Advanced & CSV Processing
+
+### Learned:
+* open()
+* close()
+
+* read()
+* readline()
+* readlines()
+
+* File Pointer Concept
+
+* Read Mode ("r")
+* Write Mode ("w")
+* Append Mode ("a")
+
+* file.write()
+
+* Text Files
+  - names.txt
+  - test.txt
+  - log.txt
+
+* CSV Basics
+* CSV Parsing
+* split(",")
+* strip()
+
+* String to Integer Conversion
+
+* Data Aggregation
+* Total Calculation
+* Average Calculation
+* Record Counting
+
+* Highest Value Search
+* Lowest Value Search
+
+* Dictionary Reports
+
+### Files:
+* Day_10.ipynb
+* names.txt
+* test.txt
+* log.txt
+* marks.csv
+* employees.csv
+* sales.csv
+
+### Mini Projects:
+* Student Marks CSV Report
+* Employee Salary CSV Report
+* Sales CSV Report
+
+---
+
+## Day 11
+
+### Status:
+
+* No learning session completed.
+* personal commitments.
+* Will continue from Day 10 progress.
+
+---
+
+## Day 12
+
+### Status:
+
+* No learning session completed.
+* Office work and personal commitments.
+* Will continue from Day 10 progress.
+
+---
+
+## Day 13
+
+### Status:
+
+* Resumed learning after a break.
+* Completed pending Day 10 topics.
+* Completed CSV Processing mini projects.
+* Updated README and GitHub progress.
+* Ready to start Day 11 as Day 13 topics.
+
