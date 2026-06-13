@@ -363,5 +363,64 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Completed pending Day 10 topics.
 * Completed CSV Processing mini projects.
 * Updated README and GitHub progress.
-* Ready to start Day 11 as Day 13 topics.
 
+## Day 14 - List Comprehensions, Lambda Functions & Sorting
+
+### Learned:
+* List Comprehensions
+* Conditional List Comprehensions
+
+* Lambda Functions
+* Lambda with Multiple Parameters
+
+* map()
+* filter()
+
+* sorted()
+* reverse=True
+
+* String Sorting
+
+* Sorting Tuples using lambda
+
+* Sort by Name
+* Sort by Salary
+* Sort by Length of Name
+
+* Ranking Reports
+
+### Files:
+* Day_14.ipynb
+
+### Mini Projects:
+* Employee Salary Ranking Report
+
+
+## Day 15
+
+### Status:
+
+* No learning session completed.
+* Office work and personal commitments.
+* Will continue from Day 14 progress.
+
+---
+
+## Day 16
+
+### Status:
+
+* No learning session completed.
+* Time spent on scrolling, videos and games instead of planned study.
+* Reviewed learning goals and decided to resume consistently.
+* Will continue from Day 14 progress.
+
+## Day 17
+
+### Status:
+
+* Completed pending Day 14 topics.
+* Completed List Comprehensions, Lambda Functions and Sorting.
+* Completed Employee Salary Ranking Report.
+* Updated README and GitHub progress.
+* Ready to start OOP (Classes & Objects).
