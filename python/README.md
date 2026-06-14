@@ -423,4 +423,54 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Completed List Comprehensions, Lambda Functions and Sorting.
 * Completed Employee Salary Ranking Report.
 * Updated README and GitHub progress.
-* Ready to start OOP (Classes & Objects).
+* Started learning OOP from scratch.
+* Created Student and Employee classes.
+* Implemented multiple methods with business logic.
+* Completed Employee Report mini project.
+* Ready for advanced OOP concepts.
+
+## OOP (Classes & Objects)
+
+### Learned:
+
+* OOP (Object Oriented Programming)
+
+* Class
+
+* Object
+
+* Attributes
+
+* Instance Variables
+
+* **init**()
+
+* self
+
+* Methods
+
+* Method Calls
+
+* return in Methods
+
+* Business Logic Methods
+
+* Method Calling Another Method
+
+* Employee Report Generation
+
+* Annual Salary Calculation
+
+* Bonus Calculation
+
+* Salary Category Calculation
+
+### Files:
+
+* Day_17.ipynb
+
+### Mini Projects:
+
+* Student Class
+* Employee Class
+* Employee Report System
