@@ -395,6 +395,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 ### Mini Projects:
 * Employee Salary Ranking Report
 
+---
 
 ## Day 15
 
@@ -414,6 +415,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Time spent on scrolling, videos and games instead of planned study.
 * Reviewed learning goals and decided to resume consistently.
 * Will continue from Day 14 progress.
+
+---
 
 ## Day 17
 
@@ -474,3 +477,94 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Student Class
 * Employee Class
 * Employee Report System
+
+---
+
+## Day 18 - Advanced OOP & Student Management System
+
+### Learned:
+
+* Class Variables
+
+* Instance Variables
+
+* Class Variable vs Instance Variable
+
+* Object Lists
+
+* Iterating Through Object Lists
+
+* Student Class
+
+* Employee Class
+
+* grade() Method
+
+* is_pass() Method
+
+* Method Calling Another Method
+
+* Student Report Generation
+
+### Files:
+
+* Day_18.ipynb
+
+### Mini Projects:
+
+* Employee Bonus System
+* Employee Salary Category System
+* Student Management System
+* Student Report System
+
+---
+
+## Day 19 - Advanced OOP, Class Methods & Banking System
+
+### Learned:
+
+* **str**()
+
+* Object Representation
+
+* Updating Object Data
+
+* Object State Changes
+
+* Class Methods
+
+* cls vs self
+
+* Modifying Class Variables
+
+* Book Class
+
+* borrow() Method
+
+* return_book() Method
+
+* Methods Modifying Object State
+
+* Bank Account System
+
+* Deposit Method
+
+* Withdraw Method
+
+* Transfer Between Accounts
+
+* PIN Verification System
+
+* Change PIN Method
+
+### Files:
+
+* Day_19.ipynb
+
+### Mini Projects:
+
+* Student Representation System
+* Library Management System
+* Banking System
+
+---
