@@ -2,7 +2,8 @@
 
 Documenting my journey from beginner to Data Engineer through daily learning and hands-on practice.
 
-## Day 1 - Python Fundamentals
+## Day 1 - 28th MAY THURSDAY  
+## Python Fundamentals
 
 ### Learned:
 
@@ -22,7 +23,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 2 - Strings and File Handling
+## Day 2 - 29th MAY FRIDAY 
+## Strings and File Handling
 
 ### Learned:
 
@@ -51,7 +53,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 3 - Functions
+## Day 3 - 30th MAY SATURDAY 
+## Functions
 
 ### Learned:
 
@@ -69,7 +72,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 4 - Recovery / No Study Session
+## Day 4 - 31st MAY SUNDAY 
+## Recovery / No Study Session
 
 ### Learned:
 
@@ -79,7 +83,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 5 - Functions, List Processing and Dictionaries
+## Day 5 - 1st JUNE MONDAY 
+## Functions, List Processing and Dictionaries
 
 
 ### Status:
@@ -105,7 +110,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 6 - Dictionary Processing, Grouping and Nested Dictionaries
+## Day 6 - 2nd JUNE TUESDAY 
+## Dictionary Processing, Grouping and Nested Dictionaries
 
 ### Learned:
 
@@ -131,7 +137,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 7 - While Loops and Number Processing
+## Day 7 - 3rd JUNE WEDNESDAY
+## While Loops and Number Processing
 
 ### Learned:
 * While Loops
@@ -160,7 +167,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 8 - Strings and Text Processing
+## Day 8 - 4th JUNE THURSDAY 
+##  Strings and Text Processing
 
 ### Learned:
 * String Indexing
@@ -221,7 +229,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 9 - Tuples, Sets, Exception Handling and Modules
+## Day 9 - 5th JUNE FRIDAY
+##  Tuples, Sets, Exception Handling and Modules
 
 ### Learned:
 * Tuple Basics
@@ -279,7 +288,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 10 - File Handling Advanced & CSV Processing
+## Day 10 - 6th JUNE SATURDAY
+##  File Handling Advanced & CSV Processing
 
 ### Learned:
 * open()
@@ -335,7 +345,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 11
+## Day 11 - 7th JUNE SUNDAY 
 
 ### Status:
 
@@ -345,7 +355,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 12
+## Day 12 - 8th JUNE MONDAY 
 
 ### Status:
 
@@ -355,7 +365,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 13
+## Day 13 - 9th JUNE TUESDAY 
 
 ### Status:
 
@@ -364,7 +374,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Completed CSV Processing mini projects.
 * Updated README and GitHub progress.
 
-## Day 14 - List Comprehensions, Lambda Functions & Sorting
+## Day 14 - 10th JUNE WEDNESDAY
+##  List Comprehensions, Lambda Functions & Sorting
 
 ### Learned:
 * List Comprehensions
@@ -397,7 +408,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 15
+## Day 15 - 11th JUNE THURSDAY 
 
 ### Status:
 
@@ -407,7 +418,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 16
+## Day 16 - 12th JUNE FRIDAY  
 
 ### Status:
 
@@ -418,7 +429,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 17
+## Day 17 - 13th JUNE SATURDAY 
 
 ### Status:
 
@@ -480,7 +491,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 18 - Advanced OOP & Student Management System
+## Day 18 - 14th JUNE SUNDAY 
+## Advanced OOP & Student Management System
 
 ### Learned:
 
@@ -519,7 +531,8 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 19 - Advanced OOP, Class Methods & Banking System
+## Day 19 - 15th JUNE MONDAY 
+## Advanced OOP, Class Methods & Banking System
 
 ### Learned:
 
