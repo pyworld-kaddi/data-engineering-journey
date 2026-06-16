@@ -457,7 +457,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 * Instance Variables
 
-* **init**()
+* **__init__()**
 
 * self
 
@@ -536,7 +536,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Learned:
 
-* **str**()
+* **__str__()**
 
 * Object Representation
 
