@@ -581,3 +581,70 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Banking System
 
 ---
+
+## Day 20 - 16 JUNE WEDNESDAY 
+## Encapsulation, Static Methods & Inheritance
+
+### Learned:
+
+* Static Methods
+
+* Instance Methods vs Class Methods vs Static Methods
+
+* @staticmethod
+
+* Encapsulation
+
+* Private Variables
+
+* Name Mangling
+
+* Controlled Access Through Methods
+
+* Secure Banking Concepts
+
+* Inheritance
+
+* Parent Class
+
+* Child Class
+
+* Inheriting Attributes
+
+* Inheriting Methods
+
+* super()
+
+* Calling Parent Constructor
+
+### Files:
+
+* Day_20.ipynb
+
+### Mini Projects:
+
+* Bank Validation Utilities
+
+* Secure Bank System
+
+* Person → Student Inheritance System
+
+* Person → Employee Inheritance System
+
+### Concepts Practiced:
+
+* Deposit Method
+
+* Withdraw Method
+
+* Balance Validation
+
+* Private Balance Storage
+
+* Encapsulated Data Access
+
+* Parent-Child Relationships
+
+* Reusing Parent Code with super()
+
+---
