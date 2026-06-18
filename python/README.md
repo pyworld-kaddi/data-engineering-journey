@@ -582,7 +582,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 20 - 16 JUNE WEDNESDAY 
+## Day 20 - 16 JUNE TUESDAY
 ## Encapsulation, Static Methods & Inheritance
 
 ### Learned:
@@ -647,4 +647,74 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 * Reusing Parent Code with super()
 
+---
+
+## Day 21 - 17 JUNE WEDNESDAY
+## Method Overriding, Polymorphism & Multiple Inheritance
+
+### Learned:
+
+* Method Overriding
+
+* Overriding Parent Methods
+
+* Polymorphism
+
+* Same Method Name with Different Behaviors
+
+* Object Lists with Polymorphism
+
+* Multiple Inheritance
+
+* Inheriting from Multiple Parent Classes
+
+* Method Resolution Order (MRO)
+
+* Left-to-Right Parent Search
+
+### Files:
+
+* Day_21.ipynb
+
+### Mini Projects:
+
+* Employee Bonus Hierarchy System
+
+* Employee Login System
+
+* Multiple Inheritance Employee System
+
+### Concepts Practiced:
+
+* Parent Class
+
+* Child Class
+
+* Multi-Level Inheritance
+
+* Method Overriding
+
+* Polymorphic Method Calls
+
+* Multiple Parent Classes
+
+* MRO Resolution
+
+### Status:
+
+* Completed Day 21 topics.
+* Practiced Inheritance, Method Overriding, Polymorphism and Multiple Inheritance.
+* Ready to continue Advanced OOP concepts on Day 22.
+
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 ---
