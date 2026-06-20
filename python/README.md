@@ -72,18 +72,13 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 4 - 31st MAY SUNDAY 
-## Recovery / No Study Session
+## 31st MAY SUNDAY 
+## Learning paused due to personal commitments. Day 4 remains in progress.
 
-### Learned:
-
-* Recovery Day
-* Study Environment Setup
-* Learning Plan Review
 
 ---
 
-## Day 5 - 1st JUNE MONDAY 
+## Day 4 - 1st JUNE MONDAY 
 ## Functions, List Processing and Dictionaries
 
 
@@ -106,11 +101,11 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Files:
 
-* Day_5.ipynb
+* Day_4.ipynb
 
 ---
 
-## Day 6 - 2nd JUNE TUESDAY 
+## Day 5 - 2nd JUNE TUESDAY 
 ## Dictionary Processing, Grouping and Nested Dictionaries
 
 ### Learned:
@@ -129,7 +124,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Files:
 
-* Day_6.ipynb
+* Day_5.ipynb
 
 ### Mini Projects:
 
@@ -137,7 +132,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 7 - 3rd JUNE WEDNESDAY
+## Day 6 - 3rd JUNE WEDNESDAY
 ## While Loops and Number Processing
 
 ### Learned:
@@ -160,14 +155,14 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Nested Data Handling (List of Dictionaries)
 
 ### Files:
-* Day_7.ipynb
+* Day_6.ipynb
 
 ### Mini Projects:
 * Student Report System
 
 ---
 
-## Day 8 - 4th JUNE THURSDAY 
+## Day 7 - 4th JUNE THURSDAY 
 ##  Strings and Text Processing
 
 ### Learned:
@@ -220,7 +215,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Text Formatting
 
 ### Files:
-* Day_8.ipynb
+* Day_7.ipynb
 
 ### Mini Projects:
 * Text Analysis Report
@@ -229,7 +224,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 9 - 5th JUNE FRIDAY
+## Day 8 - 5th JUNE FRIDAY
 ##  Tuples, Sets, Exception Handling and Modules
 
 ### Learned:
@@ -279,7 +274,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * choice()
 
 ### Files:
-* Day_9.ipynb
+* Day_8.ipynb
 
 ### Mini Projects:
 * Employee Duplicate Removal Report
@@ -288,7 +283,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 10 - 6th JUNE SATURDAY
+## Day 9 - 6th JUNE SATURDAY
 ##  File Handling Advanced & CSV Processing
 
 ### Learned:
@@ -330,7 +325,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Dictionary Reports
 
 ### Files:
-* Day_10.ipynb
+* Day_9.ipynb
 * names.txt
 * test.txt
 * log.txt
@@ -345,36 +340,12 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 11 - 7th JUNE SUNDAY 
-
-### Status:
-
-* No learning session completed.
-* personal commitments.
-* Will continue from Day 10 progress.
+## 7th JUNE SUNDAY - 8th JUNE MONDAY - 9th JUNE TUESDAY 
+## Learning paused due to personal commitments. Day 10 remains in progress.
 
 ---
 
-## Day 12 - 8th JUNE MONDAY 
-
-### Status:
-
-* No learning session completed.
-* Office work and personal commitments.
-* Will continue from Day 10 progress.
-
----
-
-## Day 13 - 9th JUNE TUESDAY 
-
-### Status:
-
-* Resumed learning after a break.
-* Completed pending Day 10 topics.
-* Completed CSV Processing mini projects.
-* Updated README and GitHub progress.
-
-## Day 14 - 10th JUNE WEDNESDAY
+## Day 10 - 10th JUNE WEDNESDAY
 ##  List Comprehensions, Lambda Functions & Sorting
 
 ### Learned:
@@ -401,39 +372,23 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Ranking Reports
 
 ### Files:
-* Day_14.ipynb
+* Day_10.ipynb
 
 ### Mini Projects:
 * Employee Salary Ranking Report
 
 ---
 
-## Day 15 - 11th JUNE THURSDAY 
-
-### Status:
-
-* No learning session completed.
-* Office work and personal commitments.
-* Will continue from Day 14 progress.
+## 11th JUNE THURSDAY - 12th JUNE FRIDAY 
+## Learning paused due to personal commitments. Day 11 remains in progress.
 
 ---
 
-## Day 16 - 12th JUNE FRIDAY  
+## Day 11 - 13th JUNE SATURDAY 
 
 ### Status:
 
-* No learning session completed.
-* Time spent on scrolling, videos and games instead of planned study.
-* Reviewed learning goals and decided to resume consistently.
-* Will continue from Day 14 progress.
-
----
-
-## Day 17 - 13th JUNE SATURDAY 
-
-### Status:
-
-* Completed pending Day 14 topics.
+* Completed pending Day 10 topics.
 * Completed List Comprehensions, Lambda Functions and Sorting.
 * Completed Employee Salary Ranking Report.
 * Updated README and GitHub progress.
@@ -481,7 +436,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Files:
 
-* Day_17.ipynb
+* Day_11.ipynb
 
 ### Mini Projects:
 
@@ -491,7 +446,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 18 - 14th JUNE SUNDAY 
+## Day 12 - 14th JUNE SUNDAY 
 ## Advanced OOP & Student Management System
 
 ### Learned:
@@ -520,7 +475,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Files:
 
-* Day_18.ipynb
+* Day_12.ipynb
 
 ### Mini Projects:
 
@@ -531,7 +486,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 19 - 15th JUNE MONDAY 
+## Day 13 - 15th JUNE MONDAY 
 ## Advanced OOP, Class Methods & Banking System
 
 ### Learned:
@@ -572,7 +527,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Files:
 
-* Day_19.ipynb
+* Day_13.ipynb
 
 ### Mini Projects:
 
@@ -582,7 +537,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 20 - 16 JUNE TUESDAY
+## Day 14 - 16 JUNE TUESDAY
 ## Encapsulation, Static Methods & Inheritance
 
 ### Learned:
@@ -619,7 +574,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Files:
 
-* Day_20.ipynb
+* Day_14.ipynb
 
 ### Mini Projects:
 
@@ -649,7 +604,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 21 - 17 JUNE WEDNESDAY
+## Day 15 - 17 JUNE WEDNESDAY
 ## Method Overriding, Polymorphism & Multiple Inheritance
 
 ### Learned:
@@ -674,7 +629,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Files:
 
-* Day_21.ipynb
+* Day_15.ipynb
 
 ### Mini Projects:
 
@@ -702,10 +657,14 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ### Status:
 
-* Completed Day 21 topics.
+* Completed Day 15 topics.
 * Practiced Inheritance, Method Overriding, Polymorphism and Multiple Inheritance.
-* Ready to continue Advanced OOP concepts on Day 22.
+* Ready to continue Advanced OOP concepts on Day 16.
 
+---
+
+## 18th JUNE THURSDAY - 19th JUNE FRIDAY - 20th JUNE SATURDAY 
+## Learning paused due to personal commitments. Day 16 remains in progress.
 
 ---
 ---
