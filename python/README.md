@@ -663,7 +663,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## 18th JUNE THURSDAY - 19th JUNE FRIDAY - 20th JUNE SATURDAY 
+## 18th JUNE THURSDAY - 19th JUNE FRIDAY - 20th JUNE SATURDAY - 21th JUNE SUNDAY 
 ## Learning paused due to personal commitments. Day 16 remains in progress.
 
 ---
