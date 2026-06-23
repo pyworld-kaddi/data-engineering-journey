@@ -667,6 +667,76 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 ## Learning paused due to personal commitments. Day 16 remains in progress.
 
 ---
+
+## Day 16 - 22nd JUNE MONDAY
+## Composition, Aggregation, OOP Design Thinking & Abstraction
+
+### Learned:
+
+* Composition
+
+* Aggregation
+
+* OOP Design Thinking
+
+* IS-A Relationship
+
+* HAS-A Relationship
+
+* Dependent Objects
+
+* Independent Objects
+
+* Abstract Classes
+
+* ABC (Abstract Base Class)
+
+* @abstractmethod
+
+* Abstraction
+
+* Hiding Implementation Details
+
+### Files:
+
+* Day_16.ipynb
+
+### Mini Projects:
+
+* Employee → Laptop System
+
+* Car → Engine System
+
+* Library → Book System
+
+* School → Teacher System
+
+* College → Student System
+
+* Hospital → Doctor System
+
+* Vehicle → Engine & Driver System
+
+* Animal Abstract Class System
+
+### Concepts Practiced:
+
+* Composition vs Aggregation
+
+* Object Ownership
+
+* Passing Objects Between Classes
+
+* OOP Relationship Selection
+
+* Abstract Method Creation
+
+* Abstract Class Inheritance
+
+* Child Class Implementation
+
+* Design Thinking Before Coding
+
 ---
 ---
 ---
