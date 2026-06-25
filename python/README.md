@@ -738,6 +738,98 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Design Thinking Before Coding
 
 ---
+
+## Day 17 - 23rd TUESDAY
+## JSON & Modules
+
+### Learned:
+
+* JSON Basics
+
+* Python Dictionary vs JSON
+
+* json.dumps()
+
+* json.loads()
+
+* json.dump()
+
+* json.load()
+
+* JSON String Conversion
+
+* JSON File Handling
+
+* JSON Arrays (List of Dictionaries)
+
+* Modules Basics
+
+* import Keyword
+
+* Importing Specific Functions
+
+* math Module
+
+### Files:
+
+* Day_17.ipynb
+
+### Mini Projects:
+
+* Employee JSON Processing
+
+* Employee JSON File Storage
+
+* Employee Salary Filtering
+
+* Employee Salary Aggregation
+
+* Highest Salary Employee Finder
+
+### Concepts Practiced:
+
+* Dictionary → JSON String
+
+* JSON String → Dictionary
+
+* Dictionary → JSON File
+
+* JSON File → Dictionary
+
+* Reading JSON Data
+
+* Writing JSON Data
+
+* Filtering Records
+
+* Aggregating Records
+
+* Finding Maximum Records
+
+* Using External Modules
+
+* Importing Functions from Modules
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 ---
 ---
 ---
