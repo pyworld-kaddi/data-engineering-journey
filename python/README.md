@@ -739,7 +739,7 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 
 ---
 
-## Day 17 - 23rd TUESDAY
+## Day 17 - 23rd JUNE TUESDAY
 ## JSON & Modules
 
 ### Learned:
@@ -811,7 +811,11 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 * Importing Functions from Modules
 
 ---
+### 23rd JUNE TUESDAY - 16th JULY THURSDAY -- PERSONAL COMMITMENTS NO STUDY
+
 ---
+## Day 18 - 17th JULY FRIDAY
+
 ---
 ---
 ---
