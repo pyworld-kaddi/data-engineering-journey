@@ -816,6 +816,42 @@ Documenting my journey from beginner to Data Engineer through daily learning and
 ---
 ## Day 18 - 17th JULY FRIDAY
 
+## Python Datetime & ETL Date Processing
+
+### Learned
+
+* datetime.now()
+* strftime() (Datetime → String)
+* strptime() (String → Datetime)
+* Date Formatting (%d, %m, %Y)
+* Time Formatting (%H, %I, %M, %S, %p)
+* Weekday Formatting (%A, %a, %w)
+* Date Difference using datetime
+* timedelta Basics
+* Date Parsing
+* Date Standardization
+* ETL Date Validation
+* Data Quality Checks
+* Human-readable vs Machine-readable Data
+* Store Source Data instead of Derived Data
+* Exception Handling Strategy in ETL
+* ETL Pipeline Design Thinking
+* Data Engineering Decision Making
+
+### Files
+
+* day18_datetime.ipynb
+
+### Mini Projects
+
+* Formatted dates and times using strftime()
+* Converted string dates to datetime using strptime()
+* Calculated date differences between joining date and current date
+* Designed ETL pipeline for processing employee joining dates
+* Handled multiple international date formats
+* Planned strategy for invalid date records
+* Designed automated employee experience reporting pipeline
+
 ---
 ---
 ---
